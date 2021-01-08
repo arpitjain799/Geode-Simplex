@@ -22,8 +22,8 @@
   <a href="https://slackin-opengeode.herokuapp.com">
     <img src="https://slackin-opengeode.herokuapp.com/badge.svg" alt="Slack invite">
   </a>
-  <a href="https://doi.org/10.5281/zenodo.3610370">
-    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610370.svg" alt="DOI">
+  <a href="https://doi.org/10.5281/zenodo.4427907">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4427907.svg" alt="DOI">
   </a>
 </p>
 
