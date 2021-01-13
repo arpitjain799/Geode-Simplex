@@ -40,7 +40,7 @@ Please contact us directly for more information by [slack](https://slackin-openg
 This repository provides Jupyter notebooks used as example usage of the module.
 For more general documentation on OpenGeode, check out our live documentation, visit [docs.geode-solutions.com](https://docs.geode-solutions.com).
 
-Installing Geode-Conversion is done by using pip command ```pip install Geode-SimplexRemesh``` and add ```import geode_simplexremesh``` in your Python script.
+Installing Geode-SimplexRemesh is done by using pip command ```pip install Geode-SimplexRemesh``` and add ```import geode_simplexremesh``` in your Python script.
 
 ## Questions
 
