@@ -1,0 +1,6 @@
+{
+    "description": "Simplex remeshing Geode-solutions OpenGeode module",
+    "title": "Geode-SimplexRemesh",
+    "license": "proprietary",
+    "creators": [{"name": "Geode-solutions"}]
+}
