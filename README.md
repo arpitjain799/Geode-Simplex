@@ -1,4 +1,4 @@
-<h1 align="center">Geode-SimplexRemesh<sup><i>by Geode-solutions</i></sup></h1>
+<h1 align="center">Geode-Simplex<sup><i>by Geode-solutions</i></sup></h1>
 <h3 align="center">Simplex remeshing for Geode-solutions OpenGeode modules</h3>
 
 <!-- <p align="center">
@@ -40,7 +40,7 @@ Please contact us directly for more information by [slack](https://slackin-openg
 This repository provides Jupyter notebooks used as example usage of the module.
 For more general documentation on OpenGeode, check out our live documentation, visit [docs.geode-solutions.com](https://docs.geode-solutions.com).
 
-Installing Geode-SimplexRemesh is done by using pip command ```pip install Geode-SimplexRemesh``` and add ```import geode_simplexremesh``` in your Python script.
+Installing Geode-SimplexRemesh is done by using pip command ```pip install Geode-Simplex``` and add ```import geode_simplex``` in your Python script.
 
 ## Questions
 
